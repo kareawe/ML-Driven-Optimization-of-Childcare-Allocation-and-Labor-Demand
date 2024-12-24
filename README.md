@@ -38,7 +38,7 @@ In a situation where orphanage leavers and those requiring guardians continue to
 
 - Ranking calculation </br>
 <img width="114" alt="그림5" src="https://github.com/joon-hee-kim/ML-Driven-Optimization-of-Childcare-Allocation-and-Labor-Demand/assets/121689436/a1a685b7-2896-48f6-a732-2b242eab4db5"> </br>
-- This figure shows ranking calculations based on distance and labor demand ratio. Each cluster is ranked, which helps determine which areas should receive priority attention for employment placement. </br>
+- This figure shows ranking calculations based on distance and labor demand ratio. Each cluster is ranked, which helps determine which areas should receive priority attention for employment placement. </br>
 - The value in the “노동수치_군집” column represents the unique number of each cluster, and the value in the “배치” column represents the rank in which each cluster will be assigned labor. For example, Cluster 0 ranks 81st to receive labor. </br>
 
 
@@ -91,3 +91,5 @@ Childcare Facility Data
 
 Labor-related Data
 * Labor market status_recruitment_recruitment, job search, placement, employment status (Source: Korea Employment Information Service) [Data Link](https://www.data.go.kr/data/15067938/fileData.do?recommendDataYn=Y) </br>
+
+
